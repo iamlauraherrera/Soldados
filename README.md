@@ -1,5 +1,5 @@
 # Soldados
-Juego Shooter de Soldados hecho con la libreria Pygame
+Juego llamado Soldier Shooter hecho con la libreria Pygame
 
 Español.
 
